@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\bin\Debug\AlgoritmiaAct5.exe.config
+C:\Users\Usuario\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\bin\Debug\AlgoritmiaAct5.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\bin\Debug\AlgoritmiaAct5.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.csproj.GenerateResource.Cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\bin\Debug\AlgoritmiaAct5.exe.config
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\bin\Debug\AlgoritmiaAct5.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\bin\Debug\AlgoritmiaAct5.pdb
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.csprojResolveAssemblyReference.cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.MainForm.resources
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.csproj.GenerateResource.Cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct5\AlgoritmiaAct5\obj\Debug\AlgoritmiaAct5.pdb
